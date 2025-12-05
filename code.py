@@ -5,3 +5,4 @@ if ccWinners == "yes":
   print("Finxlly: CC Double Loser Crashouts")
   print("Sharpness: CC Triple Loser Crashouts")
   print("Ennard: CC Crashouts S2")
+  print("ReapSplotion: CC Crashouts S3")
